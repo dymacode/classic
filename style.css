@@ -1,0 +1,36 @@
+img{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) url(images/puppy.jpeg);
+    height: 200px;
+    background-size:cover;
+    background-position: center;
+        width: 250px;
+        border-radius: 5%;
+    float: left;
+        margin-right: 10px;
+      }
+nav {
+    float: right;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    border: 1px solid black; 
+}
+    
+header{
+    background-color: burlywood;
+    padding: 20px 5px;
+    background-image: url(images/shopping.webp);
+    background-repeat:repeat-x;
+}
+
+a {
+    color: black;
+}
+a:hover {
+    background-color: brown;
+    border: 1px solid;
+}
+
+main{
+    background-color: orange;
+}
